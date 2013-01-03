@@ -1,0 +1,15 @@
+{
+  "name": "fuse-leveldb",
+  "version": "0.0.0",
+  "description": "FUSE filesystem for LevelDB",
+  "homepage": "https://github.com/mojodna/node-fuse-leveldb",
+  "repository": "https://github.com/mojodna/node-fuse-leveldb.git",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "async": "~0.1.22",
+    "fuse4js": "~0.1.2",
+    "levelup": "~0.4.4"
+  }
+}
